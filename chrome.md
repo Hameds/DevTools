@@ -17,3 +17,6 @@ incomplete: true
 *   [**SpeedTracer**](https://chrome.google.com/webstore/detail/speed-tracer-by-google/ognampngfcbddbfemdapefohjiobgbdl) - Speed speed speed. It's all timelines and timing.
 *   [**Web Developer Checklist**](https://chrome.google.com/webstore/detail/web-developer-checklist/iahamcpedabephpcgkeikbclmaljebjp)- From [http://webdevchecklist.com](http://webdevchecklist.com), did you do all these before you published your website?
 *   [**JSONView for Chrome**](https://chrome.google.com/webstore/detail/chklaanhfefbnpoihckbnefhakgolnmc) - Makes exploring JSON payloads in Chrome much easier.
+*   [**EditThisCookie**](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg) - Add, delete, edit your cookies with ease.
+*   [**LiveReload**](https://chrome.google.com/webstore/detail/livereload/jnihajbhpnppcggbcgedagnkighmdlei) - Enable integration with official LiveReload app or grunt live reload.
+*   [**YSlow**](https://chrome.google.com/webstore/detail/yslow/ninejjcohidippngpapiilnmkgllmakh) - Analyze web page performance based on the Yahoo rules for the high performance websites.
