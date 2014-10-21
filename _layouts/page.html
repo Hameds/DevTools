@@ -1,0 +1,12 @@
+---
+layout: default
+---
+<div class="container-fluid">			
+	<div class="row">
+		<div class="col-lg-12">
+			{% if page.incomplete %} {% include incompletelist.html %} {% endif %}
+			{% if page.empty %} {% include emptylist.html %} {% endif %}
+			{{ content }}
+		</div>
+	</div>
+</div>
