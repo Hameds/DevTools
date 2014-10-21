@@ -3,6 +3,7 @@ layout: page
 title: Araye Development Tools | SharePoint
 desc: List of useful and time saving tools for SharePoint developers
 permalink: /sharepoint/
+incomplete: true
 ---
  
 *	[**CKS Dev**](http://cksdev.codeplex.com/) - This project extends the Visual Studio 2010 and Visual Studio 2012/2013 SharePoint project system with advanced templates and tools.
