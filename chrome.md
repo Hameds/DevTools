@@ -20,3 +20,4 @@ incomplete: true
 *   [**EditThisCookie**](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg) - Add, delete, edit your cookies with ease.
 *   [**LiveReload**](https://chrome.google.com/webstore/detail/livereload/jnihajbhpnppcggbcgedagnkighmdlei) - Enable integration with official LiveReload app or grunt live reload.
 *   [**YSlow**](https://chrome.google.com/webstore/detail/yslow/ninejjcohidippngpapiilnmkgllmakh) - Analyze web page performance based on the Yahoo rules for the high performance websites.
+*   [Firebug](http://getfirebug.com/releases/lite/chrome/) - Firebug Extension for Chrome
