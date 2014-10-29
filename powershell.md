@@ -6,4 +6,4 @@ permalink: /powershell/
 empty: true
 ---
 
-*   [**powershellplues**](https://www.idera.com/productssolutions/freetools/powershellplus) - Learn with Free PowerShell Editor and Tools.
+*   [**powershellplus**](https://www.idera.com/productssolutions/freetools/powershellplus) - Learn with Free PowerShell Editor and Tools.
