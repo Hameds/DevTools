@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Araye Development | powershell
-desc: Useful tools to write and develop powershell scripts
+title: Araye Development | PowerShell
+desc: Useful tools to write and develop PowerShell scripts
 permalink: /powershell/
 empty: true
 ---
 
-*   [**powershellplus**](https://www.idera.com/productssolutions/freetools/powershellplus) - Learn with Free PowerShell Editor and Tools.
+*   [**PowerShell Plus**](https://www.idera.com/productssolutions/freetools/powershellplus) - Learn with Free PowerShell Editor and Tools.
