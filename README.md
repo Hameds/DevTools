@@ -6,4 +6,4 @@ This project inspired by Scott Hanselman's Ultimate Developer and Power Users To
 
 Our goal is to use community power to create and maintain list of usefull tools for developers. Please fork & Help us extend this list with your favorite tools
 
-Please see http://araye.github.io/DevTools to learn how to use & contribute.
+Please see http://hameds.github.io/DevTools to learn how to use & contribute.
